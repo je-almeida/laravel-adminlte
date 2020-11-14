@@ -1,8 +1,8 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Console\PackageResources;
+namespace JeAlmeida\LaravelAdminLte\Console\PackageResources;
 
-use JeroenNoten\LaravelAdminLte\Helpers\CommandHelper;
+use JeAlmeida\LaravelAdminLte\Helpers\CommandHelper;
 
 class MainViewsResource extends PackageResource
 {

@@ -1,13 +1,13 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte;
+namespace JeAlmeida\LaravelAdminLte;
 
 use Illuminate\Contracts\Container\Container;
 use Illuminate\Contracts\Events\Dispatcher;
-use JeroenNoten\LaravelAdminLte\Events\BuildingMenu;
-use JeroenNoten\LaravelAdminLte\Helpers\LayoutHelper;
-use JeroenNoten\LaravelAdminLte\Helpers\MenuItemHelper;
-use JeroenNoten\LaravelAdminLte\Menu\Builder;
+use JeAlmeida\LaravelAdminLte\Events\BuildingMenu;
+use JeAlmeida\LaravelAdminLte\Helpers\LayoutHelper;
+use JeAlmeida\LaravelAdminLte\Helpers\MenuItemHelper;
+use JeAlmeida\LaravelAdminLte\Menu\Builder;
 
 class AdminLte
 {

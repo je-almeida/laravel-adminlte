@@ -321,13 +321,13 @@ return [
     */
 
     'filters' => [
-        JeroenNoten\LaravelAdminLte\Menu\Filters\GateFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\HrefFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\SearchFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\ActiveFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\ClassesFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\LangFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\DataFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\GateFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\HrefFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\SearchFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\ActiveFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\ClassesFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\LangFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\DataFilter::class,
     ],
 
     /*

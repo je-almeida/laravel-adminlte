@@ -1,6 +1,6 @@
 @extends('adminlte::master')
 <h1>ALOHAAAA</h1>
-@inject('layoutHelper', \JeroenNoten\LaravelAdminLte\Helpers\LayoutHelper)
+@inject('layoutHelper', \JeAlmeida\LaravelAdminLte\Helpers\LayoutHelper)
 
 @if($layoutHelper->isLayoutTopnavEnabled())
     @php( $def_container_class = 'container' )

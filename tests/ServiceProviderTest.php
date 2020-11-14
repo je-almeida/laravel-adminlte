@@ -1,6 +1,6 @@
 <?php
 
-use JeroenNoten\LaravelAdminLte\AdminLte;
+use JeAlmeida\LaravelAdminLte\AdminLte;
 
 class ServiceProviderTest extends TestCase
 {
@@ -11,7 +11,7 @@ class ServiceProviderTest extends TestCase
     {
         // Register our service provider into the Laravel's application.
 
-        return ['JeroenNoten\LaravelAdminLte\AdminLteServiceProvider'];
+        return ['JeAlmeida\LaravelAdminLte\AdminLteServiceProvider'];
     }
 
     public function testRegisterSingletonInstance()

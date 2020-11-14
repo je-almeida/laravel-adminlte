@@ -1,9 +1,9 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Http\ViewComposers;
+namespace JeAlmeida\LaravelAdminLte\Http\ViewComposers;
 
 use Illuminate\View\View;
-use JeroenNoten\LaravelAdminLte\AdminLte;
+use JeAlmeida\LaravelAdminLte\AdminLte;
 
 class AdminLteComposer
 {
