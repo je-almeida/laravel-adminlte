@@ -23,7 +23,7 @@
   "extra": {
       "laravel": {
           "providers": [
-              "je-almeida\\LaravelAdminLte\\AdminLteServiceProvider"
+              "JeAlmeida\\LaravelAdminLte\\AdminLteServiceProvider"
           ]
       }
   },
