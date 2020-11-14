@@ -1,5 +1,5 @@
 @extends('adminlte::master')
-
+<h1>ALOHAAAA</h1>
 @inject('layoutHelper', \JeroenNoten\LaravelAdminLte\Helpers\LayoutHelper)
 
 @if($layoutHelper->isLayoutTopnavEnabled())
