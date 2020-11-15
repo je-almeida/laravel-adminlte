@@ -1,6 +1,6 @@
 <?php
 
-namespace JeAlmeida\LaravelAdminLte\Helpers;
+namespace JeroenNoten\LaravelAdminLte\Helpers;
 
 use Illuminate\Support\Facades\View;
 

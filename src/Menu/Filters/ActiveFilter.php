@@ -1,9 +1,9 @@
 <?php
 
-namespace JeAlmeida\LaravelAdminLte\Menu\Filters;
+namespace JeroenNoten\LaravelAdminLte\Menu\Filters;
 
-use JeAlmeida\LaravelAdminLte\Helpers\MenuItemHelper;
-use JeAlmeida\LaravelAdminLte\Menu\ActiveChecker;
+use JeroenNoten\LaravelAdminLte\Helpers\MenuItemHelper;
+use JeroenNoten\LaravelAdminLte\Menu\ActiveChecker;
 
 class ActiveFilter implements FilterInterface
 {

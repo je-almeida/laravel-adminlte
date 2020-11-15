@@ -1,9 +1,9 @@
 <?php
 
-namespace JeAlmeida\LaravelAdminLte\Console;
+namespace JeroenNoten\LaravelAdminLte\Console;
 
 use Illuminate\Console\Command;
-use JeAlmeida\LaravelAdminLte\Console\PackageResources\PluginsResource;
+use JeroenNoten\LaravelAdminLte\Console\PackageResources\PluginsResource;
 
 class AdminLtePluginCommand extends Command
 {
