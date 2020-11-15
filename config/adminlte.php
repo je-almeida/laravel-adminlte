@@ -10,7 +10,7 @@ return [
     | Here you can change the default title of your admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#61-title
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#61-title
     |
     */
 
@@ -26,7 +26,7 @@ return [
     | Here you can activate the favicon.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#62-favicon
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#62-favicon
     |
     */
 
@@ -41,7 +41,7 @@ return [
     | Here you can change the logo of your admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#63-logo
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#63-logo
     |
     */
 
@@ -60,7 +60,7 @@ return [
     | Here you can activate and change the user menu.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#64-user-menu
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#64-user-menu
     |
     */
 
@@ -79,7 +79,7 @@ return [
     | Here we change the layout of your admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#71-layout
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#71-layout
     |
     */
 
@@ -97,7 +97,7 @@ return [
     | Here you can change the look and behavior of the authentication views.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#721-authentication-views-classes
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#721-authentication-views-classes
     |
     */
 
@@ -116,7 +116,7 @@ return [
     | Here you can change the look and behavior of the admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#722-admin-panel-classes
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#722-admin-panel-classes
     |
     */
 
@@ -140,7 +140,7 @@ return [
     | Here we can modify the sidebar of the admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#73-sidebar
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#73-sidebar
     |
     */
 
@@ -162,7 +162,7 @@ return [
     | Here we can modify the right sidebar aka control sidebar of the admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#74-control-sidebar-right-sidebar
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#74-control-sidebar-right-sidebar
     |
     */
 
@@ -182,7 +182,7 @@ return [
     | Here we can modify the url settings of the admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#65-urls
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#65-urls
     |
     */
 
@@ -210,7 +210,7 @@ return [
     | Here we can enable the Laravel Mix option for the admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#92-laravel-mix
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#92-laravel-mix
     |
     */
 
@@ -226,7 +226,7 @@ return [
     | Here we can modify the sidebar/top navigation of the admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#8-menu-configuration
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#8-menu-configuration
     |
     */
 
@@ -323,18 +323,18 @@ return [
     | Here we can modify the menu filters of the admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#83-custom-menu-filters
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#83-custom-menu-filters
     |
     */
 
     'filters' => [
-        JeroenNoten\LaravelAdminLte\Menu\Filters\GateFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\HrefFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\SearchFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\ActiveFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\ClassesFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\LangFilter::class,
-        JeroenNoten\LaravelAdminLte\Menu\Filters\DataFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\GateFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\HrefFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\SearchFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\ActiveFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\ClassesFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\LangFilter::class,
+        JeAlmeida\LaravelAdminLte\Menu\Filters\DataFilter::class,
     ],
 
     /*
@@ -345,7 +345,7 @@ return [
     | Here we can modify the plugins used inside the admin panel.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#91-plugins
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#91-plugins
     |
     */
 
@@ -430,7 +430,7 @@ return [
     | Here we can enable the Livewire support.
     |
     | For more detailed instructions you can look here:
-    | https://github.com/jeroennoten/Laravel-AdminLTE/#93-livewire
+    | https://github.com/JeAlmeida/Laravel-AdminLTE/#93-livewire
     */
 
     'livewire' => false,

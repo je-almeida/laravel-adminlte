@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Console;
+namespace JeAlmeida\LaravelAdminLte\Console;
 
 use Illuminate\Console\Command;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Helpers;
+namespace JeAlmeida\LaravelAdminLte\Helpers;
 
 class MenuItemHelper
 {

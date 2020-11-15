@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenNoten\LaravelAdminLte\Menu\Filters;
+namespace JeAlmeida\LaravelAdminLte\Menu\Filters;
 
 use Illuminate\Translation\Translator;
 
